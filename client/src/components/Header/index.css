@@ -1,0 +1,29 @@
+.Logo {
+  background-color: #DB0000;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 24px;
+  font-weight: 500;
+  color: white;
+  padding: 5px;
+  border-radius: 7px;
+}
+header {
+  position: sticky;
+  width: 100%;
+  top: 0;
+  /* margin-top: 10px; */
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-family: 'Roboto', sans-serif;
+  z-index: 2;
+  background-color: #383838bd;
+}
+.Nav-Button {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}

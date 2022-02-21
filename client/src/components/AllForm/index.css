@@ -1,0 +1,8 @@
+#addBtn{
+width: 109ex;
+}
+
+#allForms{
+  display: flex;
+  flex-direction: column;
+}

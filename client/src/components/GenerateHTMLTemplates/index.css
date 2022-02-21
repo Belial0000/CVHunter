@@ -1,0 +1,94 @@
+/*.One {*/
+/*    opacity: 1;*/
+/*}*/
+
+.iframeContent {
+    display: inline-block;
+    position: relative;
+    background: #fff;
+    height: 1120px;
+    width: 790px;
+    transform: scale(0.253);
+    max-height: 1133px;
+    left: 50%;
+    margin-left: -100px;
+    border: none;
+    pointer-events: none;
+    transform-origin: 0 0;
+    transition: all .6s ease;
+    cursor: pointer;
+    opacity: 1;
+}
+
+.modalDiv {
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.iframeModal {
+    background: #fff;
+    height: 1200px;
+    width: 800px;
+    border: none;
+    transition: all .6s ease;
+}
+
+.modalAntStyle {
+    background-color: #efefef;
+}
+
+.containerTemplate {
+    max-width: 1100px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.wrapTemplate {
+    min-width: 270px;
+    position: relative;
+    display: inline;
+    position: relative;
+    margin: 0 0 25px 0px;
+    padding: 0 0 15px;
+    height: 370px;
+    width: 30%;
+    border-radius: 4px;
+    background: #fff;
+    box-shadow: 0 15px 35px rgb(50 50 93 / 10%), 0 5px 15px rgb(0 0 0 / 7%);
+    text-align: center;
+}
+
+svg-check-circle--active {
+    opacity: 1;
+}
+
+.svg-check-circle {
+    position: absolute;
+    right: 15px;
+    top: 13px;
+    height: 20px;
+    width: 20px;
+    fill: #DB0000;
+    opacity: 1;
+    -webkit-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+
+.templateContent {
+    display: inline-block;
+    width: 200px;
+    height: 283px;
+    text-align: center;
+    cursor: pointer;
+    overflow: hidden;
+    -webkit-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    border: 0 solid #fff;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 0 5px 2px rgb(0 0 0 / 10%);
+    box-shadow: 0 0 5px 2px rgb(0 0 0 / 10%);
+}

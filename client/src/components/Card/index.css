@@ -1,0 +1,31 @@
+.iframeContent-2 {
+    display: inline-block;
+    position: relative;
+    background: #fff;
+    height: 1120px;
+    width: 790px;
+    transform: scale(0.7);
+    max-height: 1133px;
+    left: 50%;
+    margin-left: -100px;
+    border: none;
+    pointer-events: none;
+    transform-origin: 0 0;
+    transition: all .6s ease;
+    cursor: pointer;
+    opacity: 1;
+}
+
+.wrapTemplate-2 {
+    min-width: 270px;
+    position: relative;
+    display: inline;
+    position: relative;
+    margin: 0 0 25px 0px;
+    padding: 0 0 15px;
+    height: 800px;
+    width: 25%;
+    border-radius: 4px;
+    background:none;
+    text-align: center;
+}

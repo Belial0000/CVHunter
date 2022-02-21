@@ -1,0 +1,9 @@
+.templateCard {
+  padding: 30px;
+  width: 400px;
+}
+
+.templateCard :hover {
+  transition: 1s;
+  transform: scale(1.2,1.2);
+}
